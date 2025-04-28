@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div style={{ fontWeight: 'bold' , fontSize: '116px' }}>
-      Initial Commit
+      second Commit
     </div>
   )
 }
